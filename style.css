@@ -1,0 +1,18 @@
+.header{
+    background-color: black;
+    color: aliceblue;
+    margin: 60px;
+    padding: 20px;
+    text-align: center;
+}
+a{
+    color: white;
+}
+
+h1,h3{
+    color: red;
+}
+#btn {
+    background-color: red;
+    color: aliceblue;
+}
